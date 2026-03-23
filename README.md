@@ -9,14 +9,18 @@ and WiFi-hosted live web dashboard.
 ## Project Photos
 
 ### WiFi Dashboard
-<img src="images/12a14ed3-b183-4ba5-96da-a277b349a66d.jpg" width="400"/>
-<img src="images/2a788832-1809-48c8-96b8-63d5a987ebf8.jpg" width="400"/>
+<p>
+<img src="images/12a14ed3-b183-4ba5-96da-a277b349a66d.jpg" width="340"/>
+<img src="images/2a788832-1809-48c8-96b8-63d5a987ebf8.jpg" width="340"/>
+</p>
 
 ### Circuit Setup
-<img src="images/6ea500bb-24fe-48ee-87be-47447d2b7ab5.jpg" width="400"/>
-<img src="images/78e7d6f6-affa-40b2-993c-cb826226b194.jpg" width="400"/>
+<p>
+<img src="images/6ea500bb-24fe-48ee-87be-47447d2b7ab5.jpg" width="340"/>
+<img src="images/78e7d6f6-affa-40b2-993c-cb826226b194.jpg" width="340"/>
+</p>
 
----
+
 
 ## Features
 - Real-time voltage, current & power measurement
